@@ -1,0 +1,48 @@
+.slide
+ {
+    width:100%;
+} 
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color: #fff;
+	
+}
+
+.header-text h2 {
+    font-size: 55px;
+	width:70%;
+	margin:0 auto;
+}
+
+.header-text h2 span {
+	padding: 10px;
+}
+
+.header-text h3  {
+
+	    font-size: 24px;
+	width:60%;
+	margin:0 auto;
+}
+
+.btn-min-block {
+    min-width: 170px;
+    line-height: 26px;
+}
+
+.btn-theme {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-right: 15px;
+}
+
+.btn-theme:hover {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+}

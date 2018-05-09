@@ -1,0 +1,35 @@
+  .footer1 {
+margin:5px;
+margin-top:8px;
+color:gray;
+padding:10px;
+}
+.footer1 a {
+color:gray !important;
+}
+.footer1 a:hover {
+  padding:5px !important;
+  text-decoration:underline !important;
+color:rgb(167,114,45) !important;
+    -webkit-transition: 300ms !important;
+    transition: 300ms !important;
+}
+.footer1 p {
+color:white !important;
+font-size:16px;
+    font-family: 'Montserrat', sans-serif !important;
+	
+}
+.footer2 {
+border-top:1px solid gray !important;
+}
+.footer1-border {
+border-top:1px solid gray !important;
+}
+.footerbtn {
+background-color:rgb(226,166,60) !important;
+}
+.linkfooter ul li {
+color:gray !important;
+
+}
