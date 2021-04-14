@@ -51,7 +51,7 @@ $(document).ready(function() {
 		</div>
 		<div class="col-sm-3 call">
 		<img src="../cms-pro/img/call.png"/><label>Toll Free Number :</label>
-		<p>+918954335576</p>		
+		<p>+91123456789</p>		
 		</div>
 		<div class="col-sm-3 address">
 		<img src="../cms-pro/img/time.png"/><label>Opening Hours :</label>
@@ -271,8 +271,8 @@ $(document).ready(function() {
 				 <ul class="list-unstyled">
 				     <li>Company Adress</li>
 					 <li><br><br></li>
-					  <li><img src="images/contact.png"> &nbsp +91- 8954335576</li>
-					  <li><img src="images/email.png"> &nbsp  alis06922@gmail.com </li>
+					  <li><img src="images/contact.png"> &nbsp +91- 123456789</li>
+					  <li><img src="images/email.png"> &nbsp  example@gmail.com </li>
 					  <li><label>Aliganj Lucknow, India</label></li>
 				 </ul>
 			 </div>

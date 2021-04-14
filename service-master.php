@@ -51,7 +51,7 @@ $(document).ready(function() {
 		</div>
 		<div class="col-sm-3 call">
 		<img src="../cms-pro/img/call.png"/><label>Toll Free Number :</label>
-		<p>+918954335576</p>		
+		<p>+91123456789</p>		
 		</div>
 		<div class="col-sm-3 address">
 		<img src="../cms-pro/img/time.png"/><label>Opening Hours :</label>

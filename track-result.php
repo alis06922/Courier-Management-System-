@@ -416,8 +416,8 @@ body {
 				 <ul class="list-unstyled">
 				     <li>Company Adress</li>
 					 <li><br><br></li>
-					  <li><img src="images/contact.png"> &nbsp +91- 8954335576</li>
-					  <li><img src="images/email.png"> &nbsp  alis06922@gmail.com </li>
+					  <li><img src="images/contact.png"> &nbsp +91- 123456789</li>
+					  <li><img src="images/email.png"> &nbsp  example@gmail.com </li>
 					  <li><label>Aliganj Lucknow, India</label></li>
 				 </ul>
 			 </div>
@@ -700,8 +700,8 @@ body {
 				 <ul class="list-unstyled">
 				     <li>Company Adress</li>
 					 <li><br><br></li>
-					  <li><img src="images/contact.png"> &nbsp +91- 8954335576</li>
-					  <li><img src="images/email.png"> &nbsp  alis06922@gmail.com </li>
+					  <li><img src="images/contact.png"> &nbsp +91- 123456789</li>
+					  <li><img src="images/email.png"> &nbsp  example@gmail.com </li>
 					  <li><label>Aliganj Lucknow, India</label></li>
 				 </ul>
 			 </div>

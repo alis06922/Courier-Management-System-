@@ -60,7 +60,7 @@ INSERT INTO `tbl_courier` (`cid`, `cons_no`, `ship_name`, `phone`, `s_add`, `rev
 (2, 'QIWWGIQP', 'Asif khan', '020 253623', 'shani peth', 'munna bhai', '020 88552', 'asdas das d', 'Documents', 20, '252525', 12, 'TBB', 240, 'Train', '29/03/2018', '4', 'Delivered', 'Plz deliver it', '2018-02-28'),
 (3, 'Q906F73L', 'Amol sarode', '9484848445', 'metha nagar, bhusawal', 'sunil pal', '8585425412', 'balliram peth', 'Documents', 12, '239098', 12, 'ToPay', 200, 'Air', '26/01/2018', '4', 'Delivered', 'Thanks', '2018-01-20'),
 (4, '2THBV8UM', 'Farzana Sk', '9532685965', 'xzyz', 'Asif Khan', '9852451254', 'ABC', 'Parcel', 2, '23788', 4, 'Paid', 90, 'Road', '20/01/2018', '12', 'Delivered', 'Plz transit', '2018-01-15'),
-(5, 'H374ZTGO', 'saleem', '8954335576', 'lucknow aliganj', 'shyam', '8954335576', 'delhi', 'Documents', 2, '22532', 1, 'Paid', 500, 'Air', '29/04/2018', '04:16pm', 'Landed', 'fast', '2018-04-29');
+(5, 'H374ZTGO', 'saleem', '123456789', 'lucknow aliganj', 'shyam', '123456789', 'delhi', 'Documents', 2, '22532', 1, 'Paid', 500, 'Air', '29/04/2018', '04:16pm', 'Landed', 'fast', '2018-04-29');
 
 -- --------------------------------------------------------
 
@@ -84,7 +84,7 @@ CREATE TABLE `tbl_courier_officers` (
 --
 
 INSERT INTO `tbl_courier_officers` (`cid`, `officer_name`, `off_pwd`, `address`, `email`, `ph_no`, `office`, `reg_date`) VALUES
-(7, 'saleem', 'saleem123lu', 'lucknow', 'alis06922@gmail.com', '8954335576', 'Fast Courier - Lucknow', '2018-05-02 13:46:15');
+(7, 'saleem', 'saleem123lu', 'lucknow', 'example@gmail.com', '123456789', 'Fast Courier - Lucknow', '2018-05-02 13:46:15');
 
 -- --------------------------------------------------------
 
